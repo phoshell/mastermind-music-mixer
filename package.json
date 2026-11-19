@@ -1,0 +1,11 @@
+{
+  "name": "mastermind-music-mixer",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node dev-server.mjs"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^1.11.0"
+  }
+}
